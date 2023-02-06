@@ -1,0 +1,12 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "",
+    "start_url": "",
+    "name": "Pankaj Patidar",
+    "short_name": "Pankaj",
+    "description": "Pankaj Patidar's portfolio",
+    "icons": [
+    ]
+}
