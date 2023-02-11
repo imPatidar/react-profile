@@ -3,103 +3,110 @@
     "landing": {
         "title": "Hi, I'm Pankaj",
         "subtitles": [
-            "Full-stack developer 🌐",
             "Cross-platform developer 📱💻",
+            "Full-stack developer 🌐",
+            "Devops Pundit ♾️",
             "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
             "Just getting started 📈"
         ],
         "professionalDetails": [
             {
-                "alt": "impatidar",
+                "alt": "impatidarLinkedin",
                 "icon": "linkedin",
                 "link": "https://www.linkedin.com/in/impatidar/"
             },
             {
-                "alt": "impatidar",
+                "alt": "EmailGmail",
+                "icon": "gmail",
+                "link": "mailto:pankaj_patidar@hotmail.com"
+            },
+            {
+                "alt": "impatidarGithub",
                 "icon": "github",
                 "link": "https://github.com/impatidar"
             },
             {
-                "alt": "Email",
-                "icon": "gmail",
-                "link": "mailto:pankaj_patidar@hotmail.com"
+                "alt": "impatidarTwitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/impatidar1"
             }
         ]
     },
     "skills": {
-        "Languages known": [
+        "Frameworks & Tools": [
             "TypeScript",
-            "JavaScript",
-            "Java",
-            "Python",
-            "HTML5",
-            "CSS3"
-        ],
-        "Frontend": [
-            "React",
-            "Redux",
-            "Next.js",
-            "Netlify",
-            "Bootstrap"
-        ],
-        "Backend, Database and Cloud": [
-            "Nest.js",
+            "NestJS",
             "Node.js",
+            "Next.js",
             "Express",
-            "FastAPI",
-            "MongoDB",
-            "MySQL",
-            "Heroku",
-            "Firebase"
+            "React",
+            "TailwindCSS",
+            "Bootstrap",
+            "HTML5"
         ],
         "DevOps": [
-            {
-                "alt": "aws",
-                "picture": ""
-            },
-            "GCP",
-            "CI/CD",
-            "Testflight",
-            "Fastlane"
+            "Amazon AWS",
+            "Docker",
+            "CircleCI",
+            "Fastlane",
+            "Nginx"
+        ],
+        "Databases": [
+            "MongoDB",
+            "MySQL"
         ]
     },
     "projects": {
         "baseURI": "https://api.github.com/repos/impatidar/",
         "repositories": [
-            "Portfolio",
-            "Genrealize",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "Mail-em",
-            "JAutoLayout"
+            "digitaltextsignature-generator"
         ]
     },
     "experience": {
         "Work Experience": [
             {
-                "organization": "CloudDFN LLP",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
+                "organization": "Drivelah",
+                "role": "Software Developer",
+                "type": "Full-Time",
+                "startDate": "2022-08-01",
+                "endDate": "Present",
+                "city": "Singapore",
+                "country": "Singapore",
+                "url": "https://www.drivelah.sg",
+                "thumbnail": "https://www.drivelah.sg/static/media/logo-footer@200.188baed7.png"
             },
             {
-                "organization": "NonceBlox Pvt. Ltd.",
+                "organization": "Revfin Services Private Ltd.",
                 "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
+                "type": "Full-Time",
+                "startDate": "2021-08-04",
+                "endDate": "2022-07-31",
                 "city": "New Delhi",
-                "state": "Delhi",
                 "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://www.nonceblox.com/ton3.png"
+                "url": "https://www.revfin.in",
+                "thumbnail": "https://revfin.in/static/media/logo.0e961f09.png"
+            },
+            {
+                "organization": "Revfin Services Private Ltd.",
+                "role": "Full Stack Developer",
+                "type": "Full-Time",
+                "startDate": "2021-08-04",
+                "endDate": "2022-07-31",
+                "city": "New Delhi",
+                "country": "India",
+                "url": "https://www.revfin.in",
+                "thumbnail": "https://revfin.in/static/media/logo.0e961f09.png"
+            },
+            {
+                "organization": "Revfin Services Private Ltd.",
+                "role": "Full Stack Developer",
+                "type": "Full-Time",
+                "startDate": "2021-08-04",
+                "endDate": "2022-07-31",
+                "city": "New Delhi",
+                "country": "India",
+                "url": "https://www.revfin.in",
+                "thumbnail": "https://revfin.in/static/media/logo.0e961f09.png"
             }
         ],
         "Volunteer Experience": [
@@ -110,7 +117,6 @@
                 "startDate": "2019-07-01",
                 "endDate": "",
                 "city": "Pune",
-                "state": "Maharashtra",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/pisbieee/",
                 "thumbnail": "/PISB.jfif"
@@ -122,7 +128,6 @@
                 "startDate": "2019-07-01",
                 "endDate": "2021-04-01",
                 "city": "Pune",
-                "state": "Maharashtra",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/pictoreal/",
                 "thumbnail": "/Picto.jfif"
@@ -130,7 +135,7 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform web developer, pursuing my M.S. in Computer Science from Georgia Tech. I strive to make meaningful applications with the best UI practices. ",
+        "description": "A tech-savvy problem-solver with a knack for designing innovative systems using the latest technologies. Passionate about driving progress and determined to push boundaries in the software development world.",
         "picture": "",
         "social": []
     },

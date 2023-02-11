@@ -135,7 +135,7 @@ export default function Experience() {
                                                         />
                                                         <CardHeader
                                                             avatar={<LocationCity />}
-                                                            subheader={`${city}, ${state}, ${country}`}
+                                                            subheader={`${city}, ${country}`}
                                                             className={classes.cardHeader}
                                                         />
                                                     </CardActionArea>

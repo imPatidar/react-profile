@@ -19,18 +19,6 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
           />
           <link rel="manifest" href="/manifest.webmanifest"></link>
-          {/* <script async src="https://www.googletagmanager.com/gtag/js?id=G-3S0X8Y5X3J"></script>
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-  
-              gtag('config', 'G-3S0X8Y5X3J');
-              `
-            }}
-          /> */}
         </Head>
         <body>
           <Main />

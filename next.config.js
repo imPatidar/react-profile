@@ -6,6 +6,6 @@ module.exports = withPWA({
         dest: 'public'
     },
     images: {
-        domains: ['media-exp1.licdn.com', 'www.nonceblox.com']
+        domains: ['revfin.in', 'www.drivelah.sg']
     }
 })
